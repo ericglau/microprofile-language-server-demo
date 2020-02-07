@@ -52,7 +52,7 @@ git clone https://github.com/OpenLiberty/guide-microprofile-health.git
 1. In the Problems panel, right-click the warning and choose "Add missing @Liveness annotation"
 1. Navigate to `src/main/java/io/openliberty/guides/inventory/InventoryReadinessCheck.java`
 1. Delete the `@Readiness` annotation.  Notice the warning that appears.
-1. In the Problems panel, right-click the warning and choose "Add missing @Liveness annotation"
+1. In the Problems panel, right-click the warning and choose "Add missing @Readiness annotation"
 1. Delete the text `implements HealthCheck`.  Notice the warning that appears.
 1. In the Problems panel, right-click the warning and choose "Add missing HealthCheck interface"
 
