@@ -68,6 +68,6 @@ git clone https://github.com/OpenLiberty/guide-microprofile-health.git
 
 #### Code Complete:
 1. Delete the `@Readiness` annotation.  Then press Control Space and type `@`.
-1. Notice the `Liveness`, `Readiness`, and `Health` code competion suggestions prioritized at the top of the list, and they have additional info.
+1. Notice the `Liveness`, `Readiness`, and `Health` code competion suggestions prioritized at the top of the list, and they have additional info.  
 ![](images/Health-CodeComplete.gif)
 
